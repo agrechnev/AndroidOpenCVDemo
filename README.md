@@ -19,6 +19,10 @@ and displays the result on the screen. There are 5 example OpenCV algorithms you
 4. ORB keypoints visualized  
 5. Lucas-Kanade sparse optical flow  
 
+A release (APK file) is available here on GitHub, fell free to try it on your phone.
+
+Enjoy!
+
 
 Some technical details
 ---------
@@ -70,4 +74,3 @@ Important: You should use the **static** OpenCV C++ library on Android, thus the
 **static** (the default mode of the NDK build). The **shared** OpenCV on Android is used for the
 OpenCV Java wrapper and it is rather incomplete!
 
-Enjoy!
